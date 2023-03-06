@@ -1,0 +1,38 @@
+button{
+    padding: 5px 20px;
+    cursor: pointer;
+    opacity: 1; 
+}
+
+.primary{
+    background-color: #5b1ba0;
+    color: white;
+}
+.accent{
+    background-color: #006198;
+    color:white;
+}
+.danger{
+    background-color: red;
+    color: white;
+}
+.large{
+    padding: 30px 30px;
+}
+.small{
+    padding: 2px;
+}
+.pill{
+    border-radius: 15px;
+}
+.custom{
+background: linear-gradient(#006198, #5b1ba0);
+color: white;
+border-radius: 5px;
+}
+
+.btn:hover{
+    opacity: 0.6;
+}
+Footer
+
